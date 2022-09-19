@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to run app
+1) Clone github repo
+2) Cd into repo dir
+3) run npm i
+4) based on .env.example create .env file
+5) API used in the project https://ipstack.com (you can obtain free API KEY here -> https://ipstack.com/signup/free)
+6) run npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
